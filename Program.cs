@@ -5,8 +5,7 @@ namespace ConsoleApp2
     class Program
     {
         static void Main()
-        {
-            static void Main()
+        {        
             {
                 string name = "Zoli";
                 Console.WriteLine($"Hello, {name}!");
