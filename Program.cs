@@ -8,6 +8,11 @@ namespace ConsoleApp2
         {
             string name = "Stanko";
             Console.WriteLine($"Hello {name}!");
+
+            Console.WriteLine("Do you like cats?");
+            Console.WriteLine(">>>");
+
+
         }
     }
 }
