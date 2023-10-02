@@ -5,7 +5,7 @@ namespace ConsoleApp2
     class Program
     {
         static void Main()
-        {        
+        {
             {
                 string name = "Zoli";
                 Console.WriteLine($"Hello, {name}!");
@@ -39,5 +39,5 @@ namespace ConsoleApp2
                 Console.ReadKey(true);
 
             }
-    }
-}
+ }  }    }   
+
